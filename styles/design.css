@@ -91,6 +91,9 @@ header .nav__list__item a {
 header .nav__list__item a:hover {
   color: #5fb848;
 }
+header .nav__list__item a:active {
+  color: #787878;
+}
 header .nav__info {
   column-gap: 30px;
 }

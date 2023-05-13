@@ -85,9 +85,9 @@ header {
         &:hover {
           color: #5fb848;
         }
-        // &:visited {
-        //   color: #787878;
-        // }
+        &:active {
+          color: #787878;
+        }
       }
     }
     &__info {
